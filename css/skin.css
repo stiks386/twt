@@ -1,0 +1,27 @@
+/* -----------------------------------
+    Light Header BG:    #DDEBF7
+    Primary:            #00a3ff
+    Primary Darker:     #0072b2
+--------------------------------------------------------------------------------------------- */
+
+/* Primary */
+
+header {
+    background-color: #DDEBF7;
+}
+
+.heading {
+    background-color: #b2bec3;
+}
+
+/* .heading, */ .btn-continue:hover, .btn-next:hover, .btn-yes:hover {
+    background-color: #0072b2;
+}
+
+.btn-continue, .btn-next, .btn-yes, .number.current, .section .line::after, .loader > div::after {
+    background-color: #00a3ff;
+}
+
+strong, .create-account h3 {
+    color: #00a3ff;
+}
